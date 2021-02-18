@@ -6,4 +6,4 @@ A command-line app written in Python to encrypt and decrypt messages
 
 ## Demo
 
-https://repl.it/@kristjanv001/caesar-cypher#main.py
+https://repl.it/@kristjanv001/caesar-cypher?v=1
